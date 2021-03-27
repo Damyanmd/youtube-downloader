@@ -12,7 +12,8 @@ def download():
     url = variable1.get()
     youtube = pytube.YouTube(url)
     video = youtube.streams.get_highest_resolution()
-    video.download('D:Download/Video')
+    #directory for the video
+    video.download('.../Video')
 
 def clear_view(tk):
     for el in tk.grid_slaves():
