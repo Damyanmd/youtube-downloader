@@ -1,4 +1,4 @@
-# youtube_downloader
+# youtube-downloader
 ## Description
 
 YouTube downloader allows you to download any video from YouTube at the highest resolution availablea and you can view certain information about the video (rating, age restriction, id and others).
